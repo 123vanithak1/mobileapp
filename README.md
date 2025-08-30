@@ -12,16 +12,9 @@ A simple Expo React Native app with:
 ---
 
 ## How to Run
-
-1. Clone the repo:
-```bash
-git clone [YOUR_REPO_URL]
-cd react-native-house-of-edtech
 Install dependencies:  npm install
 
-
 Start the app: npx expo start
-
 
 Open on your device via Expo Go or simulator.
 
